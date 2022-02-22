@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Westminster-Abby by Thomas Aston, M.A.</title>
+            <author>Aston, Thomas, b. 1649 or 50.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26108</idno>
+            <idno type="STC">Wing A4082</idno>
+            <idno type="STC">ESTC R29126</idno>
+            <idno type="EEBO-CITATION">10826521</idno>
+            <idno type="OCLC">ocm 10826521</idno>
+            <idno type="VID">46043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1414:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Westminster-Abby by Thomas Aston, M.A.</title>
+                  <author>Aston, Thomas, b. 1649 or 50.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Magdalen College Library, Oxford University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46043:1"/>
+            <p>A SERMON Preached at Weſtminſter Abby. March the 25th 1691.</p>
+            <p>By THOMAS ASTON, M. A.</p>
+            <q>
+               <bibl>The 2d. of Timothy the 4th. and the 3d.</bibl>
+               <p>For the time will come when they will not endure ſound Doctrine, &amp;c.</p>
+            </q>
+            <p>LONDON: Printed, ANNO 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:46043:2"/>
+            <pb n="1" facs="tcp:46043:2"/>
+            <head>A SERMON Preached at <hi>Weſtminſter-Abby. <hi>March</hi>
+               </hi> the 25th. 1691.</head>
+            <epigraph>
+               <q>
+                  <bibl>Pſalms <hi>LI.</hi> ver. <hi>6.</hi>
+                  </bibl>
+                  <p>But lo! Thou requireſt Truth in the inward Parts.</p>
+               </q>
+            </epigraph>
+            <p>TO that Queſtion, <hi>Micha</hi> 6, 8. <hi>O Man! what does the Lord require of thee?</hi> My Text gives a direct An<g ref="char:EOLhyphen"/>ſwer. <hi>God requires truth in the inward parts.</hi>
+               <pb n="2" facs="tcp:46043:3"/> But what he requires, he muſt firſt beſtow; ſo that in all our performances, we may truly ſay with Holy <hi>David, Of thine own Lord have we given thee.</hi> This Truth is a Conformity of Man to his moſt Holy Creator. <hi>God made Man in his own Image,</hi> perfectly upright, but he conti<g ref="char:EOLhyphen"/>nued not in that Honour, Rebelling againſt the VVorlds Monarch, was diſinherited, loſt himſelf and all his Poſterity, depraved their Nature, diſenabling them to perform that good ſome are inclin'd to. Now (though he cannot reach it in performance) God requires that Man in his heart and affection, ſhould be according to what he was in his firſt Crea<g ref="char:EOLhyphen"/>tion.</p>
+            <p>This Truth is four-fould, 1ſt. Of <hi>Judgment.</hi> 2d. Of <hi>Heart.</hi> 3d. Of <hi>Speech,</hi> and 4th. Of <hi>Action.</hi>
+            </p>
+            <p>Firſt, Truth of <hi>Judgment</hi> is a Conformity to the Word of God, the Rule and Proof of Truth. <hi>(viz.)</hi> when a Man informed by the Sacred Scriptures, and enlightned by the Holy Spirit, remaineth ſtedfaſt in that Doctrine the word of God teacheth: then there is Truth in <hi>Judgment.</hi> 'Tis for this that St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> commends the ſcattered Tribes, 2. Epi<g ref="char:EOLhyphen"/>ſtle,
+<pb n="3" facs="tcp:46043:3"/> 1.12. <hi>I will not be negligent to put you in remembrance of theſe things, though you know them, and are eſtabliſhed in the preſent Truth.</hi> And unto this ſettled Judgment St. <hi>Paul</hi> ex<g ref="char:EOLhyphen"/>horts the <hi>Epheſians,</hi> 4, 14, 15. <hi>Be not like Children toſſed too and fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with every wind of Doctrine, but ſpeak the Truth in Love.</hi> Error and Unſtableneſs is contrary to this Truth.</p>
+            <p>Secondly, <hi>Truth of Heart</hi> is Godly Simpli<g ref="char:EOLhyphen"/>city and Sincerity <hi>(Mel Sine cera)</hi> In 1 <hi>Pet.</hi> 2.2. We have this Expreſſion, <hi>The Sincere Milk of the Word.</hi> Milk not mixed with Water. And in 1 <hi>Cor.</hi> 5.8, Sincerity and Truth are con<g ref="char:EOLhyphen"/>joyned, <hi>Let us keep the Feaſt with the unleave<g ref="char:EOLhyphen"/>ned Bread of Sincerity and Truth,</hi> Contrary to this Truth, is Hypocricy or Pretence.</p>
+            <p>Thirdly, <hi>Truth in Speech,</hi> is when the Tongue becomes a direct Interpreter of the Heart, when a Man plainly ſpeaks the Truth from his Heart. Contrary to this is Lying (ſpeaking one thing and thinking another) which St. <hi>Paul</hi> poſitively proteſts againſt. <hi>I ſpeak the Truth, I Lye not.</hi> VVe are dehorted from the one, and earneſtly adviſed to the other by the Apoſtle, <hi>Eph.</hi> 4.25. <hi>Put away Lying and ſpeak every Man Truth to his Neighbour.</hi>
+            </p>
+            <pb n="4" facs="tcp:46043:4"/>
+            <p>Fourthly, <hi>Truth in Action,</hi> is a juſt and plain Dealing, both with God and Man; an ho<g ref="char:EOLhyphen"/>neſt rendering to every one, what of right belongs to him. Contrary to this Truth is Per<g ref="char:EOLhyphen"/>fidiouſneſs, Colluſion and ungodly encroach<g ref="char:EOLhyphen"/>ing upon the Right and Property of others. Our Lord and Saviour (not out of Comple<g ref="char:EOLhyphen"/>ment, but as he really deſerv'd) honoured <hi>Nathaniel</hi> with the Character of a Juſt Dealer. <hi>An</hi> Iſralite <hi>in truth, in whom there is no guile.</hi>
+            </p>
+            <p>Theſe are the four Branches of Truth, and we dare not to exclude any of them, the whole lump of Man muſt be leavened with Truth. His <hi>Judgment</hi> and <hi>Opinion</hi> muſt be ſound. His <hi>Affections</hi> Sincere, his <hi>Speech</hi> Verity. And his Coverſation ſo plain that it cannot be blamed.</p>
+            <p>And that which Stears all, is a true <hi>Judg<g ref="char:EOLhyphen"/>ment.</hi> For though the <hi>Heart</hi> be ſincere, the <hi>Speech</hi> true, the <hi>Actions</hi> never ſo juſt, yet if the <hi>Judgment</hi> be miſſed, there is no Truth in any. An Error in the <hi>U<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rſtanding</hi> begets an Error in the <hi>Will,</hi> in the <hi>Affections</hi> and <hi>Actions.</hi> An inſtance hereof we have in St. <hi>Paul,</hi> before his Miraculous Converſion. <hi>He</hi> had a kind of Truth in <hi>Heart,</hi> For <hi>he was
+<pb n="5" facs="tcp:46043:4"/> Zealous towards God.</hi> And for his Speech and Actions he was unblamable, <hi>concerning the Righteouſneſs of the Law anrebukeable, He</hi> had no double <hi>Tongue</hi> nor unjuſt <hi>Hand.</hi> At that time when he perſecuted the Church, <hi>He</hi> was very confident that that action was good and warrantable. <hi>He</hi> wanted nothing but <hi>Truth</hi> in <hi>Judgment,</hi> and upon the account of that Want (notwithſtanding all his <hi>Honour</hi> and <hi>Proficiency</hi> in the <hi>Law</hi>) when he arrived at a true <hi>Judgment,</hi> he deſpiſed them all. <hi>Yea doubt<g ref="char:EOLhyphen"/>leſs</hi> (ſaith he <hi>I account all things loſs for the Excellency of the Knowledge of Jeſus Chriſt, my Lord.</hi>
+            </p>
+            <p>But though this <hi>Truth</hi> be the prime and ab<g ref="char:EOLhyphen"/>ſolutely neceſſary, yet alone 'tis not ſufficient. Religion doth not conſiſt in Speculation. A Man may acquire a right Judgment of things, and yet be wanting in the practice of his Duty. The <hi>Head</hi> may be well furniſhed with Know<g ref="char:EOLhyphen"/>ledge, and the <hi>Heart</hi> rotten and deceitful. <hi>Judas,</hi> (whoſe very Name is odious for his un<g ref="char:EOLhyphen"/>parrallel'd <hi>Treachery</hi>) knew much, and doubt<g ref="char:EOLhyphen"/>leſs Preached the <hi>Truth,</hi> and poſſibly did as much good thereby as another Diſciple; but he had a hollow falſe <hi>Heart,</hi> he wanted this ſe<g ref="char:EOLhyphen"/>cond Branch of <hi>Truth in the inward Parts, (viz.)
+<pb n="6" facs="tcp:46043:5"/> Truth</hi> in <hi>Affection,</hi> and ſo got nothing by his outward Profeſſion, but a Sting of <hi>Conſcience.</hi>
+            </p>
+            <p>But if there be <hi>Truth</hi> in <hi>Judgment,</hi> and <hi>Truth</hi> in <hi>Heart,</hi> then the <hi>Speech</hi> will be true, and the <hi>Actions</hi> juſt; For the <hi>Heart</hi> dictates to the <hi>Tongue,</hi> and prepares the <hi>Hands, Out of the abundance of the Heart the Tongue ſpeaks,</hi> and the Hands act. When the <hi>Heart Indites</hi> a good matter, the <hi>Tongue will be like the Pen of a ready Writer</hi> to expreſs it; then the <hi>Bowels</hi> will be enlarged, the <hi>Hands</hi> open to the ne<g ref="char:EOLhyphen"/>ceſſities of the Saints, the <hi>Feet</hi> will move to the place where his <hi>Honour</hi> dwelleth; in brief, all the Members of the Body will be<g ref="char:EOLhyphen"/>come Inſtruments of <hi>Righteouſneſs unto Holi<g ref="char:EOLhyphen"/>neſs:</hi> Therefore King <hi>Solomon</hi> gives this ex<g ref="char:EOLhyphen"/>cellent advice, <hi>Keep thine heart with all dili<g ref="char:EOLhyphen"/>gence, for out of it proceeds the Iſhews of Life and of Death,</hi> Prov. 4.23.</p>
+            <p>Thus you ſee what God requires, a ſound <hi>Judgment</hi> without Error, a ſincere <hi>Heart</hi> without Hypocricy, the ſpeaking the <hi>Truth</hi> without a Lye, and <hi>Juſt Dealing</hi> without Deceit.</p>
+            <p>Some render the words, <hi>Thou delighteſt in Truth in the inward parts,</hi> which is according
+<pb n="7" facs="tcp:46043:5"/> to wiſe King <hi>Solomons</hi> Affirmation, <hi>Such as are upright in their way, are his Delight.</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 11.2.</note> This we may readily aſſent too, when we remem<g ref="char:EOLhyphen"/>ber that it is his own Image. <hi>I am the Truth. Truth hath made you free.</hi> There is nothing Counterfeit in him, or from him; He is per<g ref="char:EOLhyphen"/>fectly ſincere in all his Propoſals, and will exactly perform his Promiſes and Threats, <hi>He is not a Man, that he ſhould Lye,</hi> his Veraci<g ref="char:EOLhyphen"/>ty is Eſſential to him. And the <hi>Truth</hi> that is in him, is the Foundation of all the <hi>Truth</hi> that is in us. Our Faith could have no ground, without his <hi>Truth</hi> in promiſing: Our Hope no ground, without his <hi>Truth</hi> in per<g ref="char:EOLhyphen"/>forming: Our Charity no ground, without his <hi>Truth</hi> in Loving: Our Repentance no ground, without his <hi>Truth</hi> in Pardoning. And what is in him, he loves in his Creatures: And he is reſembled in nothing more than this Virtue, which Metaphorically is ſaid to <hi>yield a ſweet Savor.</hi>
+            </p>
+            <p>The Vulgar Tranſlation expreſſeth it thus, <hi>Thou deſireſt Truth,</hi> &amp;c. This deſire inti<g ref="char:EOLhyphen"/>mates a want, none deſires what he has; de<g ref="char:EOLhyphen"/>ſire terminates an Enjoyment. 'Tis much to be lamented. Men are extreamly deficient
+<pb n="8" facs="tcp:46043:6"/> in it; <hi>God made Man upright, but he ſought out many Inventions. The Children of Men are deceitful upon the Weights,</hi> Deceit, and Falſhood commonly lurk undiſcernably un<g ref="char:EOLhyphen"/>der the moſt ſpecious ſhews of Reality. <hi>The Sons of Men are become Vanity, the Sons of Noble-Men are become a Lye.</hi> Now, God ſee<g ref="char:EOLhyphen"/>ing that wanting in Man, which in his Crea<g ref="char:EOLhyphen"/>tion he beſtowed upon him, deſires that it might be recovered.</p>
+            <p>And we can never ſufficiently admire the exceeding great love of our Lord and Ma<g ref="char:EOLhyphen"/>ſter, he deals with us as a Father, whereas he might deal with us as a Judge; as a Judge he might puniſh the want, as a Father he deſires the ſupply, and takes more delight to ſee us recovered of our Miſcarriages by Repentance, that he may mercifully Pardon, than to ſee us periſh in them according to the ſeverity of his Juſtice.</p>
+            <p>And as God delights in <hi>Truth</hi> where it is, deſires it where it is wanting, ſo he rewards it. All his promiſes are made to it. He will <hi>do good to them that are good, and to them tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e true of Heart. He will give Grace
+<pb n="9" facs="tcp:46043:6"/> and Glory, and no good thing will he with-hold from them that walk uprightly.</hi> Grace! and Glory! What can there be wanting where the Almighty is pleas'd to diſpence theſe? Grace here! and Glory hereafter! but to ſatisfie the moſt extenſive and unlimitted expectation, if there be any thing that can be called good, that is not included in theſe two, He will give that alſo; <hi>No good thing will he with-hold,</hi> &amp;c. Plal. 84.11.</p>
+            <p>But as God Loves, Deſires, and Rewards Sincerity; ſo he Hates, Loaths, and will pu<g ref="char:EOLhyphen"/>niſh Hypocricy. He deſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeth the perfor<g ref="char:EOLhyphen"/>mance of thoſe very Duties which himſelf Commanded, if ſmutted and ſtained with Diſſimulation. <hi>Bring no more vain Oblations, Incenſe is an Abomination to me, I hate your Burnt Offerings, my Soul nautiates your Solemn Aſſemblies.</hi> If. 1, 14, 15, Doubtleſs all theſe were of Divine Inſtitution, and though they were performed with the greateſt ſeeming Veneration and Devotion, yet becauſe they were meerly ſuperficial, and in appearance, without any <hi>Reality</hi> and <hi>Truth in the inward parts.</hi> The God of Purity and Truth is ſo far from acceptance, that he pronounceth them abominable.</p>
+            <pb n="10" facs="tcp:46043:7"/>
+            <p>To little purpoſe then 'tis to be preſent at Prayers in an unknown Tongue, or to per<g ref="char:EOLhyphen"/>form any outward Ceremonious Adoration wherein ſome Perſons Religion conſiſts. This is not a ſerving God with <hi>Truth in the in<g ref="char:EOLhyphen"/>ward parts,</hi> as he requires. It is (Pardon the Compariſon) a kind of Complementing the Almighty, and ſaying they are his Servants (which is a tranſcient, formal Expreſſion in the Mouths of Men without Intention.) When they have performed the outward Act, can they imagine they have done enough? Alas, this cannot pleaſe the true God, this can no more benefit their Souls, than the Picture of Ripe Fruit can ſatisfie their Appe<g ref="char:EOLhyphen"/>tites. Such unthinking Devotion, (though never ſo Rompous and Splendid in Appear<g ref="char:EOLhyphen"/>ance) is odious in the ſight of the Omniſi<g ref="char:EOLhyphen"/>cent God; while a few, unpoliſhed, bro<g ref="char:EOLhyphen"/>ken Expreſſions, proceeding from a contrite heart, are Rethorical, Pleaſing, and Effectual. <hi>A broken and a contrite heart, O God, thou wilt not deſpiſe.</hi>
+            </p>
+            <p>
+               <hi>Jehu</hi> did many Galant things, he deſtroyed the Worſhippers of <hi>Baal,</hi> and carefully pre<g ref="char:EOLhyphen"/>ſerved the Servants of the Lord. <hi>He exe<g ref="char:EOLhyphen"/>cuted
+<pb n="11" facs="tcp:46043:7"/> that which was right to</hi> Ahabs <hi>houſe;</hi> But his heart was not right, inclining to the ſins of <hi>Jeroboam,</hi> &amp;c. and by reaſon of the want of his hearts ſincerity, all his Glorious Actions did loſe their Grace in Gods ſight.</p>
+            <p>There are many Inducements which may move Men to a <hi>ſeeming</hi> honeſt Deportment, Some for the Applauſe of Men, as the <hi>Scribes</hi> and <hi>Phareſies.</hi> Some for Profit, as the <hi>Shecamits.</hi> Some for Honour and Re<g ref="char:EOLhyphen"/>putation, as King <hi>Saul.</hi> Some to avoid trouble, and the danger of the Law, as in Queen <hi>Heſters</hi> days, many <hi>Heathens</hi> pretended they were <hi>Jews.</hi> And in King <hi>Charles</hi> the Se<g ref="char:EOLhyphen"/>cond's Reign, many <hi>Sciſmaticks</hi> came to Church, and counterfeited true Members of the Church of <hi>England.</hi> Some for Com<g ref="char:EOLhyphen"/>pany ſake, as <hi>Ananias</hi> and <hi>Zaphira,</hi> they would do as the reſt, though deceitfully, which was their Ruine. Some ſeem to do good, that they may be the more capeable to do evil; and with Saint-like Actions pal<g ref="char:EOLhyphen"/>liate their Wickedneſs. As <hi>Abſol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> and <hi>Jeza<g ref="char:EOLhyphen"/>bel.</hi> And indeed a Hypocrite may make a great Progreſs in outward Performances. He may be Baptized; ſo <hi>Magus.</hi> He may
+<pb n="12" facs="tcp:46043:8"/> Faſt and Pray; ſo the <hi>Phareſie.</hi> He may Preach and Repent; ſo <hi>Judas.</hi> Nay more, he may take Root, and bring fourth Fruit, and yet but a <hi>Hypocrite. Jerem.</hi> 12.2, 3. <hi>Thou haſt Planted them, yea they have taken Root, they grow, yea they bring forth Fruit; thou art neer in their Mouth, but far from their Reins.</hi> Now as our <hi>Inward Affections</hi> ſhould have their true Stamp from God, ſo ſhould they make a true Impreſſion upon our <hi>Outward Actions.</hi> The increaſe above ground (whether <hi>Wheat</hi> or <hi>Tares</hi>) is the ſame with the Seed under ground. The Fruit is like the Tree, whether good or corrup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And we in our Morals ſhould not ſuſtain one perſon in our Boſom and another in our Countenance. When a Mean Contemptible Mecannick perſonates an Emperor, King or Prince, we call him an Actor,<note n="*" place="margin">Hiſtrio perſo<g ref="char:EOLhyphen"/>nam aliquam in Fabula ſuſti<g ref="char:EOLhyphen"/>ners.</note> the word in the Lan<g ref="char:EOLhyphen"/>guage our Saviour ſpake, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one in a Vizard or Counterfeit Face.<note n="*" place="margin">Qui aliud pectore clauſum habet, aliud ore promit.</note> A <hi>Heathen</hi> obſerved that the World was like a Stage, and that the perſons that acted upon it had ſcarce a true Viſage <hi>They give good words</hi> (ſaith the Royal Prophet) <hi>with their Mouths, but Curſe with their Hearts.</hi> The <hi>Jewiſh</hi> Hypocrites deſcribed. Ez. 33.31. with their Religious
+<pb n="13" facs="tcp:46043:8"/> out-ſides, did appear to be Gods peculiar Ser<g ref="char:EOLhyphen"/>vants, but the Lord ſaith, <hi>They come as my People,</hi> (viz.) in outward formality, but not his people in Sincerity and Truth. <hi>Apes</hi> that did imitate his People, in ſome good things they did reſemble them. Their Beauty was but Painted and Meritriceous. Like Sepulchers Curiouſly Wrought, and richly Guilded on the outſide, having nothing but Rottenneſs and Pu<g ref="char:EOLhyphen"/>trifaction within. So wicked <hi>Affections</hi> are covered with Saint-like <hi>Actions.</hi> Religion is not only courted by the <hi>Virtuous;</hi> there are many who make pretentions to her; who never will be brought to Eſpouſe, and Cleave to her for <hi>Better</hi> and <hi>Worſe,</hi> and yet would be thought her Admirers. 'Tis much to be lamented, that Religion ſhould be made a Sanctuary to <hi>Fraud</hi> and <hi>Azilum</hi> to Villanous and Deſtructive purpoſes.</p>
+            <p>Former Ages ſupply us with Inſtances of ſuch Counterfeits. <hi>Jezabel</hi> deſigning Mur<g ref="char:EOLhyphen"/>der, cauſed a <hi>Faſt</hi> to be proclamed. <hi>Micha</hi> under the diſguiſe of a <hi>Levite,</hi> acts Idolatry. <hi>Judas</hi> under pretence of making Proviſion for the Poor, indulged his own Covetous Temper. The <hi>Phareſies</hi> with their long
+<pb n="14" facs="tcp:46043:9"/> Prayers commit horrid <hi>Wickedneſs,</hi> devour Widdows Houſes. <hi>Abſolom</hi> under colour of diſtributing <hi>Juſtice,</hi> would Uſurp Dominion. Thus (you ſee) the moſt Bloody, Miſchie<g ref="char:EOLhyphen"/>vous, Barbarous, and Trayterous Actions have been committed under the ſpecious ſhews of Religion and Piety.</p>
+            <p>('Tis an unacceptable Office) I am very unwilling to tax this preſent Age, Diſcour<g ref="char:EOLhyphen"/>ſes of that Nature are frequent, publick Evils are in every ones view, and few ſo pa<g ref="char:EOLhyphen"/>tient as not to complain. We may innocent<g ref="char:EOLhyphen"/>ly Mourn in private, and earneſtly Pray that he who is the <hi>Way, the Truth, and the Life,</hi> would by his Holy Spirit guide us into all <hi>Truth.</hi>
+            </p>
+            <p>I ſhall content my ſelf at preſent, hum<g ref="char:EOLhyphen"/>bly to adviſe you in King <hi>Solomons</hi> words, Prov. 23.23. <hi>Buy the Truth and ſell it not,</hi> (viz.) uſe all poſſible means for the gaining and retaining of it, to purſue the <hi>Metaphor.</hi> Firſt, the <hi>Scripture is</hi> the Field, where <hi>Truth</hi> grows. Secondly, the place where Gods Word is Devoutly Read, or ſin<g ref="char:EOLhyphen"/>cerly and powerfully Preached, is the
+<pb n="15" facs="tcp:46043:9"/> Market where you may be furniſhed there<g ref="char:EOLhyphen"/>with.</p>
+            <p>The firſt is eaſily manifeſted; For, that the <hi>Scriptures</hi> are the ground of <hi>Truth,</hi> St. <hi>James</hi> aſſures us. <hi>Of his own w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll begat he us by the Word of Truth;</hi> 'tis the Voyce of God (who is <hi>Truth</hi> in the Abſtract) 'tis the Breath of God. <hi>All Scripture is given by Inſpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation,</hi> &amp;c.</p>
+            <p>But the ſecond is more difficult. For every Profeſſion (how diſtant ſoever from it) pretend to <hi>Truth.</hi> And if you be not wary, you <hi>may be ſtrangely deluded,</hi> and let that paſs currant for <hi>Truth,</hi> which is indeed a <hi>Lye.</hi> Really, I pitty that ſort of Ignorant (and I have Charity to believe) well mean<g ref="char:EOLhyphen"/>ing poor Souls, who ſo inordinally admire the <hi>Perſons</hi> of their Factious <hi>Teachers</hi> (ha<g ref="char:EOLhyphen"/>ving gained upon their Credulity by their affected Canting, and Counterfeit Piety) that they as readily imbrace their ill groun<g ref="char:EOLhyphen"/>ded Tenets, as if they were as true as Goſ<g ref="char:EOLhyphen"/>pel. The over-weening Opinion of the Author, rather than the <hi>Truth</hi> of the Mat<g ref="char:EOLhyphen"/>ter,
+<pb n="16" facs="tcp:46043:10"/> procures their Affiance. This alas, has mouldred <hi>Proteſtants</hi> into many inſigni<g ref="char:EOLhyphen"/>ficant parcels, while not only great Doctors, as <hi>Paul, Apollo, Cephas,</hi> but Ignorant, Contemptible, Prevaricating <hi>Praters,</hi> are become the diſtinctive Characters of <hi>Sects</hi> and <hi>Separate Communions.</hi> And there are another ſort of <hi>Preachers,</hi> who ſuffer their Judgments to ſtoop to their Temporal Ad<g ref="char:EOLhyphen"/>vantage ('tis much to be lamented, that our <hi>Holy Mother</hi> the <hi>Church</hi> of <hi>England,</hi> ſhould be diſhonoured by ſuch undutiful Sons) whoſe Conſciences are ſo pliant, that they make Religion a <hi>TRADE,</hi> a meer <hi>Diana</hi> of the <hi>Epheſians:</hi> And follow their <hi>Occupa<g ref="char:EOLhyphen"/>tions, becauſe thereby no ſmall gain is brought unto them.</hi> Acts 19.24. <hi>They went out from us, for they were not of us.</hi> Every Di<g ref="char:EOLhyphen"/>viſion weakens, theſe (in effect) ſtrengthen the hands of our Common Enemy (I mean <hi>Popery</hi>) and if ever it prevail (which God forbid) this is the means.</p>
+            <p>Since ſuch dangerous Conſequences pro<g ref="char:EOLhyphen"/>ceed from Error in <hi>Judgment,</hi> and falſe <hi>Teachers</hi> are the Deſtructive <hi>Planters</hi> and
+<pb n="17" facs="tcp:46043:10"/> 
+               <hi>Spreaders</hi> thereof. Therefore Chriſtians, <hi>Try the Spirits, whether they be of God, prove all things, but hold faſt that which is good.</hi> Be induſtrious in the ſearch after <hi>Truth,</hi> but humbly acquieſs in that Sence which the Word of God rightly Interpreted, affords, <hi>viz.</hi> when one <hi>Scripture</hi> doth not contradict, and daſh againſt another.</p>
+            <p>Having obtained <hi>Truth</hi> in <hi>Judgment,</hi> we muſt ſeek for <hi>Truth</hi> in <hi>Affection:</hi> Our Theo<g ref="char:EOLhyphen"/>retical <hi>Truth</hi> muſt be turned into Practical. And of our <hi>Hearts</hi> Sincerity, our <hi>Words</hi> and <hi>Actions</hi> are the <hi>Comments</hi> and <hi>Paraphraſes. A good Man out of the good Treaſure of his Heart, bringeth forth good things,</hi> &amp;c. Luke 6.45. And if you deſire to know how to paſs a right Judgment upon your ſelves, whether your <hi>Hearts</hi> are ſincere or no, This is a Sign.</p>
+            <p n="1">1. If, when you have all oppertunity of privacy, when without any Blemiſh of your Reputation, you may Indulge Corrupt Na<g ref="char:EOLhyphen"/>ture: If then (with <hi>Joſeph</hi>) you have a deſire to approve your ſelf to God, your <hi>Heart</hi> is ſincere.</p>
+            <p n="2">
+               <pb n="18" facs="tcp:46043:11"/>2d If you prefer and imbrace, what your Conſcience aſſures you, is True, Juſt, and Honeſt, both before God and Man, though in all probability the Profeſſion there<g ref="char:EOLhyphen"/>of, will expoſe you to <hi>Poverty,</hi> and many unhappy Diſquietudes, and the contrary (in all Humane Reaſon) free you from Trouble and Danger, and render your Condition Eaſy, and Plentiful. If at ſuch a time as <hi>This,</hi> neither Fear of Puniſhment, nor Hope of Reward, nor any other left hand Reſpects, but meerly a regard to Gods <hi>Commandments,</hi> and the Comfort in your own Boſom, can in<g ref="char:EOLhyphen"/>fluence you, then your <hi>Heart</hi> is ſincere.</p>
+            <p>This ſincerity is a ſort of Evangelical Perfection, whereby a Man reſembles God; For <hi>he is the Lord God of Truth.</hi> 'Tis our Petition in that Heavenly <hi>Prayer</hi> our Saviour taught us. <hi>Thy Will be done on Earth, as it is in Heaven</hi> (that is) That we who are here below, may imitate thoſe Glorious Saints and Angels above, in doing Gods Will in Sincerity.</p>
+            <p>Thus qualified, you may approach Gods
+<pb n="19" facs="tcp:46043:11"/> Holy place, and ſay with good K. <hi>Hezekiah, Remember now (O Lord) how I have walked before thee in Truth with a perfect Heart,</hi> &amp;c. In regard of this quality (though of no other) we may Appeal to the Sentence of the Im<g ref="char:EOLhyphen"/>partial Judge of Heaven and Earth, as the Prophet <hi>David</hi> did. <hi>Judge me O Lord, for I have walked in mine Integrity,</hi> Pſal. 26.1.</p>
+            <p>But without Sncerity, no Grace is of any uſe or worth, therefore we find in the Sa<g ref="char:EOLhyphen"/>cred Oracles theſe Adjuncts, <hi>Faith unfained, Love without Diſſimulation;</hi> and Wiſdom muſt be thus qualified, St. <hi>James</hi> 3.17. <hi>The Wiſ<g ref="char:EOLhyphen"/>dom that is from above, is firſt Pure, then Peaceable, Gentle, and eaſie to be intreated, full of Mercy and good Works, without Par<g ref="char:EOLhyphen"/>tiality, and without Hypocricy.</hi> If Faith be not unfained, and ſo true: Love without Diſ<g ref="char:EOLhyphen"/>ſimulation, Wiſdom without Hypocricy, all's Vain and Fruitleſs. The <hi>Phareſies Fa<g ref="char:EOLhyphen"/>ſted, Prayed,</hi> gave <hi>Alms,</hi> paid <hi>Tythes:</hi> Yet our Saviour (who required <hi>Truth</hi>) who knew, and alone can puniſh ſecret Thoughts, denounced a <hi>Woe</hi> againſt them. A Hypo<g ref="char:EOLhyphen"/>crite can expect nothing from the true God,
+<pb n="20" facs="tcp:46043:12"/> who <hi>requireth Truth in the inward parts;</hi> But the juſt deſert of his Hypocricy. A Hypocrite (indeed) has one great Prerogative above other Sinners, <hi>(viz.)</hi> that he can never be accuſed by Men. But withal, 'tis well worthy your Obſervation, that in the Sacred <hi>Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iptures</hi> we never find one ſingle inſtance of a Hypo<g ref="char:EOLhyphen"/>crites Repentance, in order to be Pardoned by the Juſt God: For whereas <hi>Converſion</hi> is left as a means to Recover all other Sinners; What means remains to reſtore him who turneth even <hi>Converſion</hi> it ſelf into a Sin?</p>
+            <p>On the other hand, Happy is the Man that is Sincere; for this makes every Action acceptable too, and himſelf beloved of God. If <hi>Faith</hi> be but <hi>True,</hi> (though it come ſhort in parts and degrees 'tis forceable and avail<g ref="char:EOLunhyphen"/>able, <hi>Nothing is impoſſible</hi> to ſuch. <hi>Bleſſed is the M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in whoſe Spirit there is no guile! For the Lord will not impute to him ſin. He will guid <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich his Councel in this Life, and af<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> receive him to Glory.</hi> And to his un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>table Comfort, the Sincere Perſon may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y with Holy <hi>David God is my King,</hi> and hough he cannot expreſs his <hi>Allegiance</hi> to his King, either in his <hi>Perſon</hi> or <hi>Purſe,</hi>
+               <pb n="21" facs="tcp:46043:12"/> being Impriſoned by Sickneſs, or in a Goal, having neither feet to approach the Courts of the <hi>Lords Houſe,</hi> hands to lift up as a Morning <hi>Sacrifice,</hi> Tongues to utter his Praiſe, nor Silver and Gold, nor ſo much as <hi>a Cup of cold water to diſtribute to a Prophet in the Name of a Prophet.</hi> Yet this Glorious King (being the ſearcher of Hearts) will ac<g ref="char:EOLhyphen"/>cept and reward his good inclination, and intention, as if exerted into Performance. But God be thanked, we have all precious oppertunities tendered to us; 'tis therefore my Humble, Earneſt, Concluding Exhorta<g ref="char:EOLhyphen"/>tion. Let your <hi>Words</hi> and <hi>Actions</hi> manifeſt the Solidity of your Judgment, and your <hi>Hearts Sincerity.</hi> In order wereunto.</p>
+            <p>
+               <hi>Firſt,</hi> Abhor in your ſelves, utterly Re<g ref="char:EOLhyphen"/>nounce, Diſcountenance in others, not only <hi>Down-right Perjury</hi> and <hi>notorious Lying,</hi> but all Equivocating, Diſſembling, and the leaſt tendences to <hi>Falſhood.</hi> To be eſteemed a <hi>Lyer,</hi> is ſo <hi>Baſe</hi> and <hi>Ignominious</hi> a <hi>Reproach,</hi> that nothing can be more <hi>Shameful</hi> and <hi>Inglo<g ref="char:EOLhyphen"/>rious.</hi> To be protected from ſuch dangerous <hi>Society,</hi> was the Royal Prophets earneſt
+<pb n="22" facs="tcp:46043:13"/> Prayer. <hi>Deliver my Soul O Lord from Lying Lips, and from a Decei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ful Tongue.</hi> Every Mans Credit is dear to him, and cannot en<g ref="char:EOLhyphen"/>dure to be diſtruſted, inſomuch than the giving the <hi>Lye</hi> (you know) is thought a juſt ground of a Quarrel, and not to be recom<g ref="char:EOLhyphen"/>penc'd, without the Blood of him that offer<g ref="char:EOLhyphen"/>ed the Affront; ſo that the moſt <hi>Immoral</hi> and <hi>Wildeſt</hi> Men, have a value for <hi>Truth,</hi> and will tell you, they <hi>Scorn</hi> to be found in a <hi>Lye.</hi> And if You b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not directly of the Temper of the unjuſt Judge in the Goſpel, <hi>who neither feared God, nor regarded Man;</hi> Theſe conſiderations (I hope) will influence you to keep your <hi>Tongues</hi> from <hi>Evil Speaking, Lying</hi> and <hi>Slandering,</hi> never, never deviate from entire Veracity in your whole Con<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſation.</p>
+            <p>
+               <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndly,</hi> In order to diſcover a ſound <hi>Judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment,</hi> and an honeſt <hi>Heart,</hi> you muſt be true and ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in all o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Dealings. It will be ack<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owledg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who do not pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctice i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that cleer and f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Dealing is the <hi>Honour</hi> of Mans Natu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that there is no Vice that doth ſo cover a Man with
+<pb n="23" facs="tcp:46043:13"/> ſhame as to be detected Falſe and Knaviſh. A Man that is known to be Fraudulent and Perſidious, is as much to be dreaded and as circumſpectly avoided, as a venemous Ser<g ref="char:EOLhyphen"/>pent. In the Fear of God therefore decline every occaſion that may give juſt ſuſpicion of ſuch unworthy Colluſion. And let that <hi>Gol<g ref="char:EOLhyphen"/>den Rule</hi> of our Saviours (for your Peace, for your Credit, and for your Comfort) be daily in your Thoughts and conſtant Practice. <hi>What oever ye would that Men ſhould do unto you, even ſo do to them, for this is the Law and the Prophets.</hi> And by this Carriage, <hi>(viz)</hi> by uſing <hi>no Deceit in your Tongue,</hi> and doing <hi>no Evil, but Good to your Neigbour,</hi> you will be fit to <hi>reſide in Gods Tabernacle, and to reſt upon his Holy Hill</hi> (namely) to be Gracious Members of the Church <hi>Militant,</hi> and Glo<g ref="char:EOLhyphen"/>rious Partakers with the Church <hi>Tryum<g ref="char:EOLhyphen"/>phant,</hi> &amp;c I ſhall conclude all with our Churches <hi>Collect.</hi>
+            </p>
+            <p>
+               <hi>Almighty God, who ſheweſt to them that be in Error, the Light of Truth, to the intent that they may return into the way of Righte<g ref="char:EOLhyphen"/>ouſneſs; Grant unto all them that are admitted
+<pb n="24" facs="tcp:46043:14"/> into the Fellowſhip of Chriſts Religion, that they may eſchew thoſe things that are contrary to their Profeſſion, and follow all ſuch things as are agreeable to the ſame, through our Lord Jeſus Chriſt.</hi> Amen.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>October</hi> 24th. 1691.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
